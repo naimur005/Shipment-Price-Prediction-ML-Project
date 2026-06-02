@@ -1,0 +1,5 @@
+name: Random Forest Regressor
+version: 1.0
+description: A Random Forest Regressor model for predicting shipment prices.
+author: Naimur Rahman
+date: 2024-06-01    
