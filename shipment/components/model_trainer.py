@@ -24,7 +24,7 @@ class CostModel:
         """
         Method Name :   predict
 
-        Description :   This method predicts the data. 
+        Description :   This method predicts the data 
         
         Output      :   Predictions 
         """
