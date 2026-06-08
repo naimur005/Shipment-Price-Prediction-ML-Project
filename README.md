@@ -1,6 +1,6 @@
 # Shipment-Price-Prediction-ML-Project
-
-
+**Artwork Logistics Cost Estimation Model**
+> A predictive modeling project aimed at estimating the total cost of shipping and installing sculptures. The project involves building a regression pipeline that handles mixed data types—engineering physical features (dimensions, weight, material) and operational logistics variables (express shipping, remote locations, transport type)—while dropping high-cardinality identifiers to minimize data leakage and maximize model generalizability.
 ## How to run
 Before you run this project make sure you have MongoDB Atlas account and you have the shipping dataset into it.
 
